@@ -1,1 +1,3 @@
-# products_api
+# Api de produtos
+
+Case em Go programming language
